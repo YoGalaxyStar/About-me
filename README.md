@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YoGalaxyStar
 - 👀 I’m interested in Lua
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me?
+- jpingbobo -- discord 
 
 <!---
 YoGalaxyStar/YoGalaxyStar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
